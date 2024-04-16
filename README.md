@@ -37,7 +37,7 @@ map1.html
             <font color="red"><b>Veppampattu</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Monika D(212223240096)</b></font>
+            <font color="blue"><b>Jayahari(212221040065)</b></font>
         </h3>
         <center>
             <img src="map.png" usemap="#image-map">
